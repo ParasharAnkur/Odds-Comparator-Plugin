@@ -31,7 +31,7 @@ A lightweight WordPress plugin that provides an admin interface to configure API
 ## Configuration
 Under **Settings → Odds Comparator**, set:
 - **API Key** – Your key from The Odds API.
-- **Region** – Operational region (e.g., US, UK, EU, AU).
+- **Region** – Operational region (e.g., UK, EU, AU).
 - **Bookmakers** – Select which bookmakers to display odds for.
 - **Markets** – Market types such as `h2h`, `spreads`, or `totals`.
 - **Bookmaker Links** – Custom affiliate URLs per bookmaker.
